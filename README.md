@@ -32,4 +32,4 @@ Company names in project files: DAGS.
 
 ## License
 
-MIT (c) 2026 VaderConsulting for Dave Robinson's code. See `LICENSE`.
+MIT (c) 2026 Vader Consulting for Dave Robinson's code. See `LICENSE`.
